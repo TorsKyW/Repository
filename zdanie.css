@@ -1,0 +1,39 @@
+body {
+	background-color: #CC930E;
+	text-align: center;
+}
+#head {
+	width: 90VW;
+	padding: 10px;
+	background-color: #8F7028;
+	margin: auto;
+}
+#foot {
+	margin:auto;
+	width: 90VW;
+	padding: 10px;
+	background-color: #8F7028;
+	clear: both;
+
+}
+.content {
+	float: left;
+	width: 25VW;
+	margin: 20px;
+	background-color: #FFB403;
+	max-height: 67VH;
+	overflow-y: scroll;
+	height: 65VH;
+	padding: 10px;
+	box-shadow: 0 0 10px #674C0F;
+	border: solid 1px #674C0F;
+}
+img {
+	width: 20VW
+}
+#contentbx {
+	width: 88VW;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
